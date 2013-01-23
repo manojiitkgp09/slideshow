@@ -1,0 +1,41 @@
+body {
+    padding:auto;
+}
+.slideshow {
+    position:relative;
+    margin:auto;
+    width:250px;
+    height:250px;
+    padding:10px;
+    border: 1px solid red;
+}
+.previous {
+    position:absolute;
+    left:0;
+    top:125px;
+    cursor:pointer;
+}
+.next {
+    position:absolute;
+    right:0;
+    top:125px;
+    cursor:pointer;
+}
+.mode {
+    position:absolute;
+    right:0;
+    top:0;
+    height:20px;
+    width:40px;
+    font-size:9px;
+    cursor:pointer;
+}
+.timer {
+    position:absolute;
+    left:0;
+    top:0;
+    height:20px;
+    width:40px;
+    font-size:9px;
+    cursor:pointer;
+}

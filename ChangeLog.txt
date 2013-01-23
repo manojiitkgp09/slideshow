@@ -1,0 +1,8 @@
+24 dec 2012:
+1) Fix IE Issues
+2) Add Timer Input to control slideshow time.
+
+23 dec 2012:
+1) Add Ui and code for previous and next navigation
+2) Add Ui and code for automatic and manual mode.
+3) Fixed a bug in previous navigation.
